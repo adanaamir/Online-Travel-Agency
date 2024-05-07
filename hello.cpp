@@ -1,1 +1,2 @@
 #include<iostream>
+aray wa
